@@ -26,7 +26,7 @@ It is designed for academic and professional purposes.
 ## 🚀 Live Website
 You can visit my portfolio here:
 
-👉 https://fika29.github.io/fikahalimah.github.io/
+👉 https://fika29.github.io/portfolio/
 
 ## 📬 Contact
 If you would like to connect, feel free to reach out.
